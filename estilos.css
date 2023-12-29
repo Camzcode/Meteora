@@ -19,6 +19,16 @@
     border:none;
 }
 
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
