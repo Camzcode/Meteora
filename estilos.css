@@ -10,6 +10,15 @@
     width: 325px;
 }
 
+.texto-verde{
+    color: #DAFF01;
+}
+
+.botao-roxo{
+    background-color: #9353FF;
+    border:none;
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
